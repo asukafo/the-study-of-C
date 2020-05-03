@@ -20,7 +20,7 @@ int main()
         }
         a[j+1]=temp;
     }
-    //输出
+    //输出 
     for(i=0;i<N;i++)
     {
         printf("%d ",a[i]);
